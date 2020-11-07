@@ -1,5 +1,5 @@
 # todoListApi
-Basic Node Todo List API
+Basic node Todo List API
 
 Five Routes Implemented:
 1. List all created tasks
